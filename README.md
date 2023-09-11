@@ -4,7 +4,7 @@
 
 
 - 🔭 Hoje procuro um estágio como dev.
-- 🌱 Estudando HTMl, CSS, JavaScript e PHP
+- 🌱 Estudando Vue, .NET e PHP
 - 📫 Contate-me no email: murilo-093@hotmail.com
 
 <div align="center">
