@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Hoje procuro um estágio como dev.
+- 🔭 Atualmente, sou estagiário na área de TI na Sasazaki, focando em manutenção de PCs e suporte técnico.
 - 🌱 Estudando Vue, .NET e PHP
 - 📫 Contate-me no email: murilo-093@hotmail.com
 
