@@ -3,8 +3,8 @@
 
 
 
-- 🔭 Atualmente, sou estagiário na área de TI na Sasazaki, focando em manutenção de PCs e suporte técnico.
-- 🌱 Estudando Vue, .NET e PHP
+- 🔭 Atualmente, estou procurando uma oportunidade na área de desenvolvimento web.
+- 🌱 Estudando Vue e Laravel
 - 📫 Contate-me no email: murilo-093@hotmail.com
 
 <div align="center">
