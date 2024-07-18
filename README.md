@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Atualmente, estou procurando uma oportunidade na área de desenvolvimento web.
+- 🔭 Atualmente estou procurando uma oportunidade na área de desenvolvimento web.
 - 🌱 Estudando Vue e Laravel
 - 📫 Contate-me no email: murilo-093@hotmail.com
 
